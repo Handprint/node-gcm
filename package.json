@@ -13,7 +13,7 @@
     "url": "http://github.com/h2soft/node-gcm.git",
     "web" : "http://github.com/h2soft/node-gcm"
   },
-  "engines": { "node": ">= 0.8.0" },
+  "engines": { "node": ">= 0.6.0" },
   "dependencies": {
     "retry": ">=0.6.0"
   }
